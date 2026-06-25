@@ -8,6 +8,8 @@ A reusable event signup page — attendees scan a QR code, fill in what food/dri
 
 **[→ Live Demo](https://yueouli.github.io/event-signup-skill/)**
 
+![Demo preview](docs/preview.png)
+
 ---
 
 ## How it works
