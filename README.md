@@ -6,6 +6,8 @@ A reusable event signup page — attendees scan a QR code, fill in what food/dri
 
 **First used:** Munich English Garden picnic, June 2026, ~40 people.
 
+**[→ Live Demo](https://yueouli.github.io/event-signup-skill/)**
+
 ---
 
 ## How it works
